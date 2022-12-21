@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.hbs",
+  "main": "index.js",
   "scripts": {
     "dev": "parcel index.hbs --port 4567",
     "build": "parcel build index.hbs"
